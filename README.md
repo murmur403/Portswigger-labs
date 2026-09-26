@@ -14,6 +14,7 @@ CSRF, SSRF, y más.
 | SQL injection Oracle | SQL Injection | Practitioner | 2026-09-19 | [ver](./sql-injection-oracle.md) |
 | SQL injection listing contents Oracle | SQL Injection | Practitioner | 2026-09-23 | [ver](./sql-injection-listing-contents-oracle.md) |
 | Blind SQL injection time delays | SQL Injection | Practitioner | 2026-09-23 | [ver](./blind-sql-injection-time-delays.md) |
+| DOM XSS in document.write sink | DOM XSS | Practitioner | 2026-09-26 | [ver](./dom-xss-document-write-select.md) |
 
 
 ---
@@ -23,6 +24,7 @@ CSRF, SSRF, y más.
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-purple)
 ![SQLMap](https://img.shields.io/badge/-SQLMap-red)
 ![curl](https://img.shields.io/badge/-curl-blue)
+![DevTools](https://img.shields.io/badge/-DevTools-grey)
 
 - **Proxy/Intercept:** Burp Suite (Repeater, Intruder)
 - **SQL Injection:** SQLMap, payloads manuales
