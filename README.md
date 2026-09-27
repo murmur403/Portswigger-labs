@@ -15,7 +15,7 @@ CSRF, SSRF, y más.
 | SQL injection listing contents Oracle | SQL Injection | Practitioner | 2026-09-23 | [ver](./sql-injection-listing-contents-oracle.md) |
 | Blind SQL injection time delays | SQL Injection | Practitioner | 2026-09-23 | [ver](./blind-sql-injection-time-delays.md) |
 | DOM XSS in document.write sink | DOM XSS | Practitioner | 2026-09-26 | [ver](./dom-xss-document-write-select.md) |
-
+| DOM XSS in AngularJS expression | DOM XSS / CSTI | Practitioner | 2026-09-26 | [ver](./dom-xss-angularjs-expression.md) |
 
 ---
 
