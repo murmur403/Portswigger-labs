@@ -18,6 +18,7 @@ CSRF, SSRF, y más.
 | DOM XSS in AngularJS expression | DOM XSS / CSTI | Practitioner | 2026-09-26 | [ver](./dom-xss-angularjs-expression.md) |
 | Reflected DOM XSS | DOM XSS | Practitioner | 2026-09-28 | [ver](./reflected-dom-xss.md) |
 | Stored DOM XSS | Stored DOM XSS | Practitioner | 2026-10-02 | [ver](./stored-dom-xss.md) |
+| Mystery Challenge SQLi UNION | SQL Injection | Practitioner | 2026-10-04 | [ver](./mystery-challenge-sqli-union.md) |
 
 ---
 
