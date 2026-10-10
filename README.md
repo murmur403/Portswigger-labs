@@ -20,6 +20,7 @@ CSRF, SSRF, y más.
 | Stored DOM XSS | Stored DOM XSS | Practitioner | 2026-10-02 | [ver](./stored-dom-xss.md) |
 | Mystery Challenge SQLi UNION | SQL Injection | Practitioner | 2026-10-04 | [ver](./mystery-challenge-sqli-union.md) |
 | Reflected XSS WAF bypass | Reflected XSS | Practitioner | 2026-10-08 | [ver](./reflected-xss-waf-bypass.md) |
+| Reflected XSS custom tags | Reflected XSS | Practitioner | 2026-10-09 | [ver](./reflected-xss-custom-tags.md) |
 
 ---
 
