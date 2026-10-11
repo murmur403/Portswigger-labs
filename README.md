@@ -22,6 +22,7 @@ CSRF, SSRF, y más.
 | Reflected XSS WAF bypass | Reflected XSS | Practitioner | 2026-10-08 | [ver](./reflected-xss-waf-bypass.md) |
 | Reflected XSS custom tags | Reflected XSS | Practitioner | 2026-10-09 | [ver](./reflected-xss-custom-tags.md) |
 | Reflected XSS SVG markup | Reflected XSS | Practitioner | 2026-10-11 | [ver](./reflected-xss-svg-markup.md) |
+| Reflected XSS canonical link tag | Reflected XSS | Practitioner | 2026-10-11 | [ver](./reflected-xss-canonical-link-tag.md) |
 
 ---
 
