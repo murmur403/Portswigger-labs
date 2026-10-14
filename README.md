@@ -25,6 +25,7 @@ CSRF, SSRF, y más.
 | Reflected XSS canonical link tag | Reflected XSS | Practitioner | 2026-10-11 | [ver](./reflected-xss-canonical-link-tag.md) |
 | Reflected XSS JS string escaped | Reflected XSS | Practitioner | 2026-10-12 | [ver](./reflected-xss-js-string-escaped.md) |
 | Reflected XSS JS string backslash | Reflected XSS | Practitioner | 2026-10-13 | [ver](./reflected-xss-js-string-backslash.md) |
+| Stored XSS into onclick | Stored XSS | Practitioner | 2026-10-13 | [ver](./stored-xss-onclick.md) |
 
 ---
 
